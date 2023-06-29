@@ -1,0 +1,66 @@
+# Folders to ignore
+.DS_Store
+node_modules
+dist
+.hg
+.svn
+.CVS
+jscoverage_lib
+bower_components
+video
+__pycache__
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swo
+*.swp
+*.sw*
+
+# Numerous always-ignore extensions
+*.bak
+*.patch
+*.diff
+*.err
+
+# temp file for git conflict merging
+*.orig
+*.rej
+*.zip
+*.psd
+*.rar
+*.vi
+*~
+*.sass-cache
+*.tmp.html
+*.dump
+
+# OS or Editor folders
+._*
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+thumbs.db
+*.iml
+package-lock.json
+randomimg.txt
+dbcon.js
